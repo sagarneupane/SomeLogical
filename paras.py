@@ -1,5 +1,7 @@
 
-
+# This program prints the prime numbers 
+# Here you need to tell program upto which number you want to print prime
+# Foreg give n = 10 then program will give you list of prime numbers upto 10 . i.e 2,3,5,7
 
 
 def primenumber(n):
